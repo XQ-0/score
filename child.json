@@ -1,0 +1,23 @@
+{
+    "rs":[
+        {
+            "relate":"本人",
+            "userType":"教师",
+            "userName":"张家维",
+            "userId":"330101-S000004-T000029"
+        },
+        {
+            "userType":"学生",
+            "userName":"张家维弟弟",
+            "userId":"330101-S000004-S20160160",
+            "class":"1班"
+        },
+        {
+            "userType":"学生",
+            "userName":"张家维哥哥",
+            "userId":"330101-S000004-S20160297",
+            "class":"2班"
+        }
+    ],
+    "code":0
+}
