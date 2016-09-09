@@ -3,20 +3,20 @@
         {
             "relate":"本人",
             "userType":"教师",
-            "userName":"张家维",
+            "userName":"家长",
             "userId":"330101-S000004-T000029"
         },
         {
             "userType":"学生",
-            "userName":"张家维弟弟",
+            "userName":"妞妞",
             "userId":"330101-S000004-S20160160",
-            "class":"1班"
+            "class":"2016级1班"
         },
         {
             "userType":"学生",
-            "userName":"张家维哥哥",
+            "userName":"王丹丹",
             "userId":"330101-S000004-S20160297",
-            "class":"2班"
+            "class":"2016级2班"
         }
     ],
     "code":0
