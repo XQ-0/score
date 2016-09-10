@@ -9,14 +9,6 @@
         {
             "userId":"456","userName":"学生B"
         }
-        ],"class":[
-        {
-            "classId":"1231","className":"班级A"
-        }
-        ,
-        {
-            "classId":"1232","className":"班级B"
-        }
         ]
     }
 }
