@@ -1,15 +1,17 @@
 {
     "code":200,"data":[
     {
-        "subjectName":"全部"
-    }
-    ,
-    {
         "subjectName":"化学"
     }
     ,
     {
         "subjectName":"生物"
+    } ,
+    {
+        "subjectName":"物理"
+    } ,
+    {
+        "subjectName":"数学"
     }
     ]
 }
