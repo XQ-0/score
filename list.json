@@ -1,0 +1,25 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "ExamSubjectName": "化学,生物,英语",
+            "examinationName": "第二次模拟考试",
+            "exzminationTime": "2016/07/08",
+            "exzminationType": 1,
+            "gradeRank": 2,
+            "id": "1",
+            "isFinish": false,
+            "resultScore": "550"
+        },
+        {
+            "ExamSubjectName": "生物",
+            "examinationName": "第二次生物考试",
+            "exzminationTime": "2016/07/08",
+            "exzminationType": 0,
+            "gradeRank": 2,
+            "id": "2",
+            "isFinish": false,
+            "resultScore": "550"
+        }
+    ]
+}
