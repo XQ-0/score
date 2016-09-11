@@ -20,6 +20,16 @@
             "id": "2",
             "isFinish": false,
             "resultScore": "550"
+        },
+        {
+            "ExamSubjectName": "生物",
+            "examinationName": "第三次生物考试",
+            "exzminationTime": "2016/07/08",
+            "exzminationType": 0,
+            "gradeRank": 0,
+            "id": "3",
+            "isFinish": false,
+            "resultScore": "-1"
         }
     ]
 }
