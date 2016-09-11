@@ -7,7 +7,7 @@
             "examinationName": "第二次模拟考试",
             "exzminationTime": "2017-07-06",
             "exzminationType": "1",
-            "subjectScore": "语文:150，数学:200"
+            "subjectScore": "语文:150，数学:200，英语：100，化学：120"
         },
         "gradeRank": "1",
         "resultScore": "550",
@@ -23,6 +23,18 @@
                 "classRank": "1",
                 "score": "100",
                 "subjectName": "数学"
+            },
+            {
+                "classAvg": "80",
+                "classRank": "1",
+                "score": "100",
+                "subjectName": "化学"
+            },
+            {
+                "classAvg": "80",
+                "classRank": "1",
+                "score": "100",
+                "subjectName": "英语"
             }
         ]
     }
