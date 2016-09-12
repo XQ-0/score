@@ -1,118 +1,121 @@
 {
-    "code": 200,
-    "data": [
-        {
-            "examinationEntity": {
-                "classIds": "1,2,3",
-                "createUserId": "123",
-                "examinationName": "期末考试",
-                "exzminationTime": 1473656387000,
-                "exzminationType": "1",
-                "finish": true,
-                "gmtCreate": 1473656390000,
-                "gmtModify": 1473656394000,
-                "gradId": "1",
-                "hierarchicalEntity": {
-                    "gmtCreate": 1473580421000,
-                    "gmtModify": 1473580424000,
-                    "hierarchicalGrade": "1",
-                    "hierarchicalName": "分数值",
-                    "hierarchicalType": "1",
-                    "id": 1,
-                    "isDelete": 0,
-                    "public": true
-                },
-                "id": 2,
-                "isDelete": 0,
-                "subjectScore": "语文:150,数学:100"
-            },
-            "sbSubjectScoreEntities": [
-                {
-                    "examinationId": 2,
-                    "gmtCreate": 1473658322000,
-                    "gmtModify": 1473658326000,
-                    "id": 1,
-                    "isDelete": 0,
-                    "score": 100,
-                    "studentId": "123",
-                    "subjectId": "1",
-                    "subjectName": "语文"
-                }
-            ],
-            "classId": "1",
-            "className": "小1班",
-            "gmtCreate": 1473656439000,
-            "gmtModify": 1473656442000,
-            "gradeId": "1",
-            "gradeName": "一年级",
-            "gradeRank": 1,
-            "id": 5,
-            "isDelete": 0,
-            "resultScore": 189,
-            "schoolId": "1",
-            "schoolName": "sb中学",
-            "studentId": "123",
-            "studentName": "张三",
-            "userSign": "31201200"
-        },
-        {
-            "examinationEntity": {
-                "classIds": "1,2,3",
-                "createUserId": "123",
-                "examinationName": "期末考试",
-                "exzminationTime": 1473656387000,
-                "exzminationType": "1",
-                "finish": true,
-                "gmtCreate": 1473656390000,
-                "gmtModify": 1473656394000,
-                "gradId": "1",
-                "hierarchicalEntity": {
-                    "gmtCreate": 1473580421000,
-                    "gmtModify": 1473580424000,
-                    "hierarchicalGrade": "1",
-                    "hierarchicalName": "分数值",
-                    "hierarchicalType": "1",
-                    "id": 1,
-                    "isDelete": 0,
-                    "public": true
-                },
-                "id": 2,
-                "isDelete": 0,
-                "subjectScore": "语文:150,数学:100"
-            },
-            "sbSubjectScoreEntities": [
-                {
-                    "examinationId": 2,
-                    "gmtCreate": 1473658372000,
-                    "gmtModify": 1473658384000,
-                    "id": 2,
-                    "isDelete": 0,
-                    "score": 89,
-                    "studentId": "123",
-                    "subjectId": "2",
-                    "subjectName": "数学"
-                }
-            ],
-            "classId": "1",
-            "className": "小1班",
-            "gmtCreate": 1473584285000,
-            "gmtModify": 1473584287000,
-            "gradeId": "1",
-            "gradeName": "一年级",
-            "gradeRank": 3,
-            "id": 1,
-            "isDelete": 0,
-            "resultScore": 80,
-            "schoolId": "1",
-            "schoolName": "sb中学",
-            "studentId": "123",
-            "studentName": "张三",
-            "userSign": "31201200"
-        }
-    ],
-    "msg": "",
-    "page": {
-        "curPage": 1,
-        "total": 2
-    }
+  "code" : 200,
+  "msg" : "",
+  "data" : [ {
+    "id" : 5,
+    "gmtCreate" : 1473656439000,
+    "gmtModify" : 1473656442000,
+    "isDelete" : 0,
+    "schoolId" : "1",
+    "schoolName" : "sb中学",
+    "gradeId" : "1",
+    "gradeName" : "一年级",
+    "classId" : "1",
+    "className" : "小1班",
+    "studentId" : "123",
+    "studentName" : "张三",
+    "userSign" : "31201200",
+    "resultScore" : 189.0,
+    "gradeRank" : 1,
+    "examinationEntity" : {
+      "id" : 2,
+      "gmtCreate" : 1473656390000,
+      "gmtModify" : 1473656394000,
+      "isDelete" : 0,
+      "examinationName" : "期末考试",
+      "exzminationTime" : 1473656387000,
+      "gradId" : "1",
+      "classIds" : "1,2,3",
+      "exzminationType" : "1",
+      "subjectScore" : "语文:150,数学:100",
+      "createUserId" : "123",
+      "hierarchicalEntity" : {
+        "id" : 1,
+        "gmtCreate" : 1473580421000,
+        "gmtModify" : 1473580424000,
+        "isDelete" : 0,
+        "hierarchicalName" : "分数值",
+        "hierarchicalType" : "1",
+        "hierarchicalGrade" : "1",
+        "public" : true
+      },
+      "finish" : true
+    },
+    "sbSubjectScoreEntities" : [ {
+      "id" : 1,
+      "gmtCreate" : 1473658322000,
+      "gmtModify" : 1473658326000,
+      "isDelete" : 0,
+      "studentId" : "123",
+      "examinationId" : 2,
+      "subjectId" : "1",
+      "subjectName" : "语文",
+      "score" : 100.0
+    }, {
+      "id" : 2,
+      "gmtCreate" : 1473658372000,
+      "gmtModify" : 1473658384000,
+      "isDelete" : 0,
+      "studentId" : "123",
+      "examinationId" : 2,
+      "subjectId" : "2",
+      "subjectName" : "数学",
+      "score" : 89.0
+    } ]
+  }, {
+    "id" : 1,
+    "gmtCreate" : 1473584285000,
+    "gmtModify" : 1473584287000,
+    "isDelete" : 0,
+    "schoolId" : "1",
+    "schoolName" : "sb中学",
+    "gradeId" : "1",
+    "gradeName" : "一年级",
+    "classId" : "1",
+    "className" : "小1班",
+    "studentId" : "123",
+    "studentName" : "张三",
+    "userSign" : "31201200",
+    "resultScore" : 80.0,
+    "gradeRank" : 3,
+    "examinationEntity" : {
+      "id" : 1,
+      "gmtCreate" : 1473580391000,
+      "gmtModify" : 1473580395000,
+      "isDelete" : 0,
+      "examinationName" : "数学考试",
+      "exzminationTime" : 1473580384000,
+      "gradId" : "1",
+      "classIds" : "1",
+      "exzminationType" : "0",
+      "subjectScore" : "数学:150",
+      "createUserId" : "123",
+      "hierarchicalEntity" : {
+        "id" : 1,
+        "gmtCreate" : 1473580421000,
+        "gmtModify" : 1473580424000,
+        "isDelete" : 0,
+        "hierarchicalName" : "分数值",
+        "hierarchicalType" : "1",
+        "hierarchicalGrade" : "1",
+        "public" : true
+      },
+      "finish" : false
+    },
+    "sbSubjectScoreEntities" : [ {
+      "id" : 3,
+      "gmtCreate" : 1473658434000,
+      "gmtModify" : 1473658436000,
+      "isDelete" : 0,
+      "studentId" : "123",
+      "examinationId" : 1,
+      "subjectId" : "2",
+      "subjectName" : "数学",
+      "score" : 80.0
+    } ]
+  } ],
+  "page" : {
+    "curPage" : 1,
+    "total" : 2
+  }
 }
