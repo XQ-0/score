@@ -24,9 +24,21 @@
                 },
                 "id": 2,
                 "isDelete": 0,
-                "subjectScore": "语文:150,数学100"
+                "subjectScore": "语文:150,数学:100"
             },
-            "sbSubjectScoreEntities": {},
+            "sbSubjectScoreEntities": [
+                {
+                    "examinationId": 2,
+                    "gmtCreate": 1473658322000,
+                    "gmtModify": 1473658326000,
+                    "id": 1,
+                    "isDelete": 0,
+                    "score": 100,
+                    "studentId": "123",
+                    "subjectId": "1",
+                    "subjectName": "语文"
+                }
+            ],
             "classId": "1",
             "className": "小1班",
             "gmtCreate": 1473656439000,
@@ -36,7 +48,7 @@
             "gradeRank": 1,
             "id": 5,
             "isDelete": 0,
-            "resultScore": 190,
+            "resultScore": 189,
             "schoolId": "1",
             "schoolName": "sb中学",
             "studentId": "123",
@@ -47,7 +59,7 @@
             "examinationEntity": {
                 "classIds": "1,2,3",
                 "createUserId": "123",
-                "examinationName": "单元考试",
+                "examinationName": "期末考试",
                 "exzminationTime": 1473656387000,
                 "exzminationType": "1",
                 "finish": true,
@@ -66,9 +78,21 @@
                 },
                 "id": 2,
                 "isDelete": 0,
-                "subjectScore": "语文:150"
+                "subjectScore": "语文:150,数学:100"
             },
-            "sbSubjectScoreEntities": {},
+            "sbSubjectScoreEntities": [
+                {
+                    "examinationId": 2,
+                    "gmtCreate": 1473658372000,
+                    "gmtModify": 1473658384000,
+                    "id": 2,
+                    "isDelete": 0,
+                    "score": 89,
+                    "studentId": "123",
+                    "subjectId": "2",
+                    "subjectName": "数学"
+                }
+            ],
             "classId": "1",
             "className": "小1班",
             "gmtCreate": 1473584285000,
