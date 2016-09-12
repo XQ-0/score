@@ -1,0 +1,22 @@
+{
+    "code": 200,
+    "data": {
+        "classRank": "20",
+        "examDetail": {
+            "ExamPersonInfo": "班级20人，年级200人",
+            "examinationName": "第二次单元考试",
+            "exzminationTime": "2017-07-06",
+            "exzminationType": "0",
+            "subjectScore": "语文:150"
+        },
+        "resultScore": "550",
+        "subjectDetail": [
+            {
+                "classAvg": "80",
+                "classRank": "1",
+                "score": "100",
+                "subjectName": "语文"
+            }
+        ]
+    }
+}
