@@ -1,0 +1,94 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "examinationEntity": {
+                "classIds": "1,2,3",
+                "createUserId": "123",
+                "examinationName": "期末考试",
+                "exzminationTime": 1473656387000,
+                "exzminationType": "1",
+                "finish": true,
+                "gmtCreate": 1473656390000,
+                "gmtModify": 1473656394000,
+                "gradId": "1",
+                "hierarchicalEntity": {
+                    "gmtCreate": 1473580421000,
+                    "gmtModify": 1473580424000,
+                    "hierarchicalGrade": "1",
+                    "hierarchicalName": "分数值",
+                    "hierarchicalType": "1",
+                    "id": 1,
+                    "isDelete": 0,
+                    "public": true
+                },
+                "id": 2,
+                "isDelete": 0,
+                "subjectScore": "语文:150,数学100"
+            },
+            "sbSubjectScoreEntities": {},
+            "classId": "1",
+            "className": "小1班",
+            "gmtCreate": 1473656439000,
+            "gmtModify": 1473656442000,
+            "gradeId": "1",
+            "gradeName": "一年级",
+            "gradeRank": 1,
+            "id": 5,
+            "isDelete": 0,
+            "resultScore": 190,
+            "schoolId": "1",
+            "schoolName": "sb中学",
+            "studentId": "123",
+            "studentName": "张三",
+            "userSign": "31201200"
+        },
+        {
+            "examinationEntity": {
+                "classIds": "1,2,3",
+                "createUserId": "123",
+                "examinationName": "单元考试",
+                "exzminationTime": 1473656387000,
+                "exzminationType": "1",
+                "finish": true,
+                "gmtCreate": 1473656390000,
+                "gmtModify": 1473656394000,
+                "gradId": "1",
+                "hierarchicalEntity": {
+                    "gmtCreate": 1473580421000,
+                    "gmtModify": 1473580424000,
+                    "hierarchicalGrade": "1",
+                    "hierarchicalName": "分数值",
+                    "hierarchicalType": "1",
+                    "id": 1,
+                    "isDelete": 0,
+                    "public": true
+                },
+                "id": 2,
+                "isDelete": 0,
+                "subjectScore": "语文:150"
+            },
+            "sbSubjectScoreEntities": {},
+            "classId": "1",
+            "className": "小1班",
+            "gmtCreate": 1473584285000,
+            "gmtModify": 1473584287000,
+            "gradeId": "1",
+            "gradeName": "一年级",
+            "gradeRank": 3,
+            "id": 1,
+            "isDelete": 0,
+            "resultScore": 80,
+            "schoolId": "1",
+            "schoolName": "sb中学",
+            "studentId": "123",
+            "studentName": "张三",
+            "userSign": "31201200"
+        }
+    ],
+    "msg": "",
+    "page": {
+        "curPage": 1,
+        "total": 2
+    }
+}
