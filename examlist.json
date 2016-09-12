@@ -9,6 +9,16 @@
             "exzminationTime": "2016/07/08",
             "exzminationType": 1,
             "id": "1",
+            "isFinish": true
+        },
+        {
+            "ExamSubjectName": "生物",
+            "classNames": "一年级1班,一年级3班",
+            "createUserName": "张三",
+            "examinationName": "第三次生物考试",
+            "exzminationTime": "2016/07/08",
+            "exzminationType": 0,
+            "id": "2",
             "isFinish": false
         },
         {
