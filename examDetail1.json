@@ -6,7 +6,7 @@
           "creactName":"张三",
           "creactTime":"2016-06-01",
           "class":"2016级1班，2016级2班，2016级3班",
-          "examType":1
+          "examType":1,
         "classDetail": [
             {
                 "rank": "1",
