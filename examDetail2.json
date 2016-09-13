@@ -1,0 +1,38 @@
+{
+    "code": 200,
+    "data": {
+         "examinationName": "第四次单元考试",
+          "subjectScore": "语文",
+          "creactName":"张三",
+          "creactTime":"2016-06-01",
+          "class":"2016级1班",
+          "examType":0
+        "classDetail": [
+            {
+                "rank": "1",
+                "score": "120",
+                "userId": "123",
+                "userName": "张三"
+            },
+            {
+                "rank": "2",
+                "score": "120",
+                "userId": "456",
+                "userName": "李四"
+            },
+            {
+                "rank": "3",
+                "score": "120",
+                "userId": "456",
+                "userName": "李四"
+            },
+            {
+                "rank": "4",
+                "score": "120",
+                "userId": "456",
+                "userName": "李四"
+            }
+        ]
+       
+    }
+}
