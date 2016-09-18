@@ -17,6 +17,7 @@
     "userSign" : "31201200",
     "resultScore" : 189.0,
     "gradeRank" : 1,
+    "classRank": 20,
     "examinationEntity" : {
       "id" : 2,
       "gmtCreate" : 1473656390000,
