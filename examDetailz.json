@@ -88,7 +88,7 @@
       "examinationId" : 2,
       "subjectId" : "2",
       "subjectName" : "物理",
-      "score" : 89.0,
+      "score" : -1,
       "mark":"1",
       "ave":80
     }]
