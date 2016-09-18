@@ -1,7 +1,7 @@
 {
   "code" : 200,
   "msg" : "",
-  "data" : [ {
+  "data" :  {
     "id" : 5,
     "gmtCreate" : 1473656439000,
     "gmtModify" : 1473656442000,
@@ -88,9 +88,9 @@
       "examinationId" : 2,
       "subjectId" : "2",
       "subjectName" : "物理",
-      "score" : -1,
+      "score" : 89.0,
       "mark":"1",
       "ave":80
     }]
-  }]
+  }
 }
