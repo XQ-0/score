@@ -1,22 +1,20 @@
+
 {
-    "code":200,"data":
+    "code":0,
+    "msg":"测试内容nv59",
+    "studentList":[
     {
-        "childen":[
+        "studentId":"123","studentName":"学生A"
+    },
+     {
+        "studentId":"12555555553","studentName":"学生b"
+    }   
+    ],"teacherList":[
+    {
+        "className":"班级A","gradeId":"1231"
+    },
         {
-            "userId":"123","userName":"学生A"
-        }
-        ,
-        {
-            "userId":"456","userName":"学生B"
-        }
-        ],"class":[
-        {
-            "classId":"1231","className":"班级A"
-        }
-        ,
-        {
-            "classId":"1232","className":"班级B"
-        }
-        ]
+        "className":"班级e","gradeId":"eeeeeeeeeeeee1231"
     }
+    ]
 }
