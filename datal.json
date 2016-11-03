@@ -1,0 +1,28 @@
+{
+    "code":0,
+    "data":[
+    {
+        "classUserNumber":50,
+        "classUserRanking":1,
+        "examinationName":"期末考试",
+        "exzminationStartTime":"2015.12.30",
+        "exzminationType":"1",
+        "gradeUserNumber":200,
+        "gradeUserRanking":10,
+        "resultScore":"360",
+        "studentName":"李苗苗",
+        "subjectScoreEntities":[
+        {
+            "subjectName":"数学","subjectScore":100
+        },
+        {
+            "subjectName":"化学","subjectScore":90
+        },
+        ,
+        {
+            "subjectName":"语文呢","subjectScore":90
+        }
+        ]
+    }
+    ],"msg":"测试内容jnph"
+}
