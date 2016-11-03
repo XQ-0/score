@@ -40,7 +40,9 @@
         }
     ],
     "examinationName":"期末考试",
+    "exzminationType":"1",
     "gradeId":"1111",
     "msg":"测试内容v2no",
-    "resultId":12
+    "resultId":"12",
+    "time":"2015.23.25"
 }
