@@ -6,7 +6,7 @@
         "createUserName":"张三",
         "examinationName":"第二次模拟考试",
         "resultId":1,
-        "subjectName":"化学,生物,英语",
+        "subjectName":["化学","生物","英语"],
         "time":"2016/07/08",
         "exzminationType":"1"
     },
@@ -15,7 +15,7 @@
         "createUserName":"张三",
         "examinationName":"第三次生物考试",
         "resultId":2,
-        "subjectName":"生物",
+        "subjectName":["生物"],
         "time":"2016/07/08",
          "exzminationType":"0"
     },
@@ -24,7 +24,7 @@
         "createUserName":"张三",
         "examinationName":"第二次生物考试",
         "resultId":3,
-        "subjectName":"化学,生物,英语",
+        "subjectName":["化学","生物","英语"],
         "time":"2016/07/08",
          "exzminationType":"1"
     },
@@ -33,7 +33,7 @@
         "createUserName":"张三",
         "examinationName":"第二次生物考试",
         "resultId":3,
-        "subjectName":"生物",
+        "subjectName":["生物"],
         "time":"2016/07/08",
          "exzminationType":"1"
     }
