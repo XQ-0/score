@@ -35,5 +35,21 @@
         }
     ],
     "msg":"测试内容4aj1",
-    "studentId":"测试内容426s"
+    "studentId":"测试内容426s",
+    "subjectarray":[
+        {
+            "subjectId":"123",
+            "subjectName":"数学"
+        },
+        {
+            "subjectId":"3",
+            "subjectName":"化学"
+        },
+        {
+            "subjectId":"2222",
+            "subjectName":"物理"
+        }
+    ]
 }
+
+
