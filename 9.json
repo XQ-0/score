@@ -1,55 +1,165 @@
 {
-    "code":0,
-    "createUserName":"测试内容845n",
-    "data":[
-        {
-            "rank":1,
-            "resultScore":"120",
-            "studentName":"wmmm",
-            "studentId":"1111111"
-        },
-        {
-            "rank":1,
-            "resultScore":"120",
-            "studentName":"ee",
-            "studentId":"11"
-        },
-        {
-            "rank":1,
-            "resultScore":"120",
-            "studentName":"rr",
-            "studentId":"21"
-        },
-        {
-            "rank":1,
-            "resultScore":"120",
-            "studentName":"tt",
-            "studentId":"411"
-        },
-        {
-            "rank":1,
-            "resultScore":"120",
-            "studentName":"uu",
-            "studentId":"6111"
-        },
-        {
-            "rank":1,
-            "resultScore":"120",
-            "studentName":"oo",
-            "studentId":"8111"
-        }
-    ],
-    "examinationName":"数学考试",
-    "gradeId":"11111",
-    "msg":"测试内容614x",
-    "rankIngBean":[
-        {
-            "averageScore":"100",
-            "maxScore":"123",
-            "minScore":"123",
-            "subjectName":"数学",
-            "subjectScore":"122"
-        }
-    ],
-    "resultId":31056
+  "data" : {
+    "content" : [ {
+      "id" : 2,
+      "orgId" : "1",
+      "orgName" : "向日葵",
+      "roles" : "家长",
+      "wxUserId" : "wx2",
+      "userId" : "",
+      "userName" : "1",
+      "content" : "1",
+      "mobile" : "1",
+      "isDelete" : "0",
+      "createUser" : " ",
+      "gmtCreate" : 1484647814000,
+      "modifyUser" : " ",
+      "gmtModify" : 1483956618000
+    }, {
+      "id" : 3,
+      "orgId" : "1",
+      "orgName" : "向日葵",
+      "roles" : "家长",
+      "wxUserId" : "wx3",
+      "userId" : "",
+      "userName" : "1",
+      "content" : "1",
+      "mobile" : "1",
+      "isDelete" : "0",
+      "createUser" : " ",
+      "gmtCreate" : 1484647814000,
+      "modifyUser" : " ",
+      "gmtModify" : 1483956618000
+    }, {
+      "id" : 32,
+      "orgId" : "330108-S000018",
+      "orgName" : "滨江区向日葵幼儿园",
+      "roles" : "教职工、校领导、教职工、班主任、教职工",
+      "wxUserId" : "d46b26f8-6580-447a-9ff3-69f290e9f9dd",
+      "userId" : "330108-S000018-T000385",
+      "userName" : "陈磊",
+      "content" : "度假酒店",
+      "mobile" : "13777810742",
+      "isDelete" : "0",
+      "createUser" : "陈磊",
+      "gmtCreate" : 1484201492000,
+      "modifyUser" : "陈磊",
+      "gmtModify" : 1484201492000
+    }, {
+      "id" : 31,
+      "orgId" : "330108-S000018",
+      "orgName" : "滨江区向日葵幼儿园",
+      "roles" : "教职工、校领导、教职工、班主任、教职工",
+      "wxUserId" : "d46b26f8-6580-447a-9ff3-69f290e9f9dd",
+      "userId" : "330108-S000018-T000385",
+      "userName" : "陈磊",
+      "content" : "呵呵呵",
+      "mobile" : "13777810742",
+      "isDelete" : "0",
+      "createUser" : "陈磊",
+      "gmtCreate" : 1484201484000,
+      "modifyUser" : "陈磊",
+      "gmtModify" : 1484201484000
+    }, {
+      "id" : 30,
+      "orgId" : "330108-S000018",
+      "orgName" : "滨江区向日葵幼儿园",
+      "roles" : "教职工、校领导、教职工、班主任、教职工",
+      "wxUserId" : "d46b26f8-6580-447a-9ff3-69f290e9f9dd",
+      "userId" : "330108-S000018-T000385",
+      "userName" : "陈磊",
+      "content" : "度假酒店",
+      "mobile" : "13777810742",
+      "isDelete" : "0",
+      "createUser" : "陈磊",
+      "gmtCreate" : 1484201469000,
+      "modifyUser" : "陈磊",
+      "gmtModify" : 1484201469000
+    }, {
+      "id" : 29,
+      "orgId" : "330108-S000018",
+      "orgName" : "滨江区向日葵幼儿园",
+      "roles" : "教职工、校领导、教职工、班主任、教职工",
+      "wxUserId" : "d46b26f8-6580-447a-9ff3-69f290e9f9dd",
+      "userId" : "330108-S000018-T000385",
+      "userName" : "陈磊",
+      "content" : "度假酒店",
+      "mobile" : "13777810742",
+      "isDelete" : "0",
+      "createUser" : "陈磊",
+      "gmtCreate" : 1484201468000,
+      "modifyUser" : "陈磊",
+      "gmtModify" : 1484201468000
+    }, {
+      "id" : 28,
+      "orgId" : "330108-S000018",
+      "orgName" : "滨江区向日葵幼儿园",
+      "roles" : "教职工、校领导、教职工、班主任、教职工",
+      "wxUserId" : "d46b26f8-6580-447a-9ff3-69f290e9f9dd",
+      "userId" : "330108-S000018-T000385",
+      "userName" : "陈磊",
+      "content" : "d j j d j j j d j j d j j",
+      "mobile" : "13777810742",
+      "isDelete" : "0",
+      "createUser" : "陈磊",
+      "gmtCreate" : 1484201437000,
+      "modifyUser" : "陈磊",
+      "gmtModify" : 1484201437000
+    }, {
+      "id" : 26,
+      "orgId" : "330108-S000018",
+      "orgName" : "滨江区向日葵幼儿园",
+      "roles" : "教职工、校领导、教职工、班主任、教职工",
+      "wxUserId" : "d46b26f8-6580-447a-9ff3-69f290e9f9dd",
+      "userId" : "330108-S000018-T000385",
+      "userName" : "陈磊",
+      "content" : "思念你的呢",
+      "mobile" : "13777810742",
+      "isDelete" : "0",
+      "createUser" : "陈磊",
+      "gmtCreate" : 1484201422000,
+      "modifyUser" : "陈磊",
+      "gmtModify" : 1484201422000
+    }, {
+      "id" : 27,
+      "orgId" : "330108-S000018",
+      "orgName" : "滨江区向日葵幼儿园",
+      "roles" : "教职工、校领导、教职工、班主任、教职工",
+      "wxUserId" : "d46b26f8-6580-447a-9ff3-69f290e9f9dd",
+      "userId" : "330108-S000018-T000385",
+      "userName" : "陈磊",
+      "content" : "思念你的呢",
+      "mobile" : "13777810742",
+      "isDelete" : "0",
+      "createUser" : "陈磊",
+      "gmtCreate" : 1484201422000,
+      "modifyUser" : "陈磊",
+      "gmtModify" : 1484201422000
+    }, {
+      "id" : 25,
+      "orgId" : "330108-S000018",
+      "orgName" : "滨江区向日葵幼儿园",
+      "roles" : "老师,班主任,学生、教职工、教职工、学生",
+      "wxUserId" : "d7467444-79ea-4723-b3cd-88c98fb6d70e",
+      "userId" : "330108-S000018-T000474,330108-S000018-S20160013",
+      "userName" : "林晓清",
+      "content" : "点解点解",
+      "mobile" : "18363822211",
+      "isDelete" : "0",
+      "createUser" : "林晓清",
+      "gmtCreate" : 1484201361000,
+      "modifyUser" : "林晓清",
+      "gmtModify" : 1484201361000
+    } ],
+    "last" : false,
+    "totalPages" : 4,
+    "totalElements" : 31,
+    "sort" : null,
+    "first" : true,
+    "numberOfElements" : 10,
+    "size" : 10,
+    "number" : 0
+  },
+  "code" : 200,
+  "msg" : "success"
 }
